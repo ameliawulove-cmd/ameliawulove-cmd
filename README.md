@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ameliawulove-cmd/ameliawulove-cmd/main/assets/cat.gif" width="280" alt="cute cat" />
+<img src="https://raw.githubusercontent.com/ameliawulove-cmd/ameliawulove-cmd/main/assets/cat.png" width="220" alt="cat" />
 
 ### Hi, I'm Muxuan Wu
 
